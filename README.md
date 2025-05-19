@@ -1,6 +1,9 @@
 # QB/QBOX xrb-Bartering
 https://youtu.be/f1IoP2nJQMQ?si=kR70_Dr21twZ6Qt6
 
+* **DOWNLOAD MLO**
+https://drive.google.com/file/d/14tw675HrtwTlxo7tZVrOrOskBDOeoQbd/view
+
 * **Tiered Contract System:** 
 Players interact with a dynamic Contractor NPC (`ox_target`) to receive contracts whose difficulty and rewards scale based on the player's earned "Bartering Points".
 
